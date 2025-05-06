@@ -1,5 +1,5 @@
 
-cmake_minimum_required(VERSION 2.8)
+cmake_minimum_required(VERSION 3.31.6)
 
 # Specify default build type if none provided (before project() command)
 if(NOT CMAKE_BUILD_TYPE)
